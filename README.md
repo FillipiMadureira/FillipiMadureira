@@ -1,4 +1,4 @@
-<h1>Hiii!!!, Eu sou Joäo Fillipi Madureira👋</h1>
+<h1>Hiii!!!, Eu sou João Fillipi Madureira👋</h1>
 
 <!--
 **FillipiMadureira/FillipiMadureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
