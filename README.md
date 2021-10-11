@@ -1,4 +1,4 @@
-<h1>Hiii!!!, Eu sou João Fillipi Madureira👋</h1>
+<h1>Hiii!!!, I am João Fillipi Madureira👋</h1>
 
 <!--
 **FillipiMadureira/FillipiMadureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
